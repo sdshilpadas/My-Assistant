@@ -1,4 +1,4 @@
-# voice-recognition-system
+# My Assistant
 A need or problem encourages creative efforts to meet the need or solve the problem. This saying appears in the dialogue Republic, by the ancient Greeak philosopher Plato.
 
 This is the base of this project-Voice Recognition System.
